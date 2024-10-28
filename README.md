@@ -1,5 +1,5 @@
 # Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-I'm Clara, currently diving into web development through a bootcamp at Neuefische 🎓. I have a background in mathematics 📐 from my studies at KIT. Now I’m excited to improve my IT skills👩🏼‍💻.
+I'm Clara, currently diving into web development through a bootcamp at neue fische 🎓. I have a background in mathematics 📐 from my studies at KIT. Now I’m excited to improve my IT skills👩🏼‍💻.
 
 ## 🌱 Learning Web Development
 - ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
